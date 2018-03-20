@@ -1,19 +1,16 @@
 ####################
-Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo.
+Regolamento per il commercio su aree pubbliche del Comune di Palermo.
 ####################
 
 .. figure:: img/palermo.PNG
 
-Fonte: `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094310.pdf>`_, approvato con Deliberazione di Consiglio Comunale n. 335 del 17/09/2008 (*Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico*).
+Fonte: `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094346.pdf>`_.
 
-.. figure:: img/urp.PNG
 
 +-------------------------------------------------------------------------------------------------------------------------------+
 | **Informazioni ulteriori**                                                                                                    |
 +-------------------------------------------------------------------------------------------------------------------------------+
-| - Portale `Ufficio Relazioni con il Pubblico <https://www.comune.palermo.it/urp.php>`_ del Comune di Palermo                  |
-|                                                                                                                               |
-| - Email U.R.P.: urp@comune.palermo.it                                                                                         |
+| - Portale `Regolamenti <https://www.comune.palermo.it/regolamenti.php>`_ del Comune di Palermo                                |
 |                                                                                                                               |
 | - `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_     |
 +-------------------------------------------------------------------------------------------------------------------------------+
@@ -33,6 +30,4 @@ Testo del Regolamento
    _docs/capo2.rst
    _docs/capo3.rst
    _docs/capo4.rst
-   _docs/capo5.rst
-   _docs/capo6.rst
-   _docs/capo7.rst
+   _docs/parteseconda.rst
