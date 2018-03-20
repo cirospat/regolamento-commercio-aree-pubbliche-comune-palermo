@@ -1,7 +1,9 @@
-Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo
+Regolamento per il commercio su aree pubbliche del Comune di Palermo
 ==================================================
 
-Questo repository contiene la documentazione relativa al [Regolamento per il funzionamento del servizio Ufficio Relazioni con il Pubblico (URP) del Comune di Palermo](http://regolamento-funzionamento-urp-comune-palermo.readthedocs.io). 
+**Fonte**: https://www.comune.palermo.it/js/server/normative/_24122012094346.pdf
+
+Questo repository contiene la documentazione relativa al [Regolamento per il commercio su aree pubbliche del Comune di Palermo](http://regolamento-commercio-aree-pubbliche-comune-palermo.readthedocs.io). 
 
 
 Link
