@@ -51,7 +51,7 @@ Art. 19 - riserva di posteggi a favore dei produttori agricoli
    
    • sorteggio. 
    
-4.Nel  caso  di  autorizzazione  ai  sensi  della  legge  n.  59/1963,  ovvero  nel  caso  in  cui  dalla  presentazione  della  denuncia  di  inizio  attività  sia  decorso  oltre  un  anno,  è  condizione  di  ammissibilità  al  posteggio  l’esibizione  di  apposita  certificazione  attestante  la  qualità  di  agricoltore rilasciata in data non antecedente il periodo di un anno. 
+4. Nel  caso  di  autorizzazione  ai  sensi  della  legge  n.  59/1963,  ovvero  nel  caso  in  cui  dalla  presentazione  della  denuncia  di  inizio  attività  sia  decorso  oltre  un  anno,  è  condizione  di  ammissibilità  al  posteggio  l’esibizione  di  apposita  certificazione  attestante  la  qualità  di  agricoltore rilasciata in data non antecedente il periodo di un anno. 
 
 |
 
@@ -145,7 +145,9 @@ Art. 27 - obblighi degli esercenti
 
    • i  dati  identificativi  dell'azienda,  (ditta  o  ragione  sociale,  numero  dell’autorizzazione  con  data  di  rilascio  e  data  di  scadenza,  numero  di  partiva  IVA,  numero  di  iscrizione  alla  C.C.I.A.A., generalità complete di eventuali addetti alla vendita);  
    
-   • la ricevuta di pagamento della T.O.S.A.P. 2.Ai sensi dell’art. 14 del D.Lgs. 5 febbraio 1997 n.22, gli esercenti devono  mantenere ordinato e pulito il posteggio e gli spazi ad esso adiacenti, provvedendo costantemente alla rimozione di tutti i rifiuti prodotti. A tal fine, e per agevolare il servizio di pulizia dell’area, è fatto obbligo agli  stessi  di  dotarsi  di  idonei  contenitori  per  i  rifiuti  in  tutti  i  casi  nei  quali  non  siano  disponibili,  o  utilizzabili,  materiali  ed  attrezzature  forniti  dall’azienda  preposta  al  servizio  di  pulizia.  Nei  casi  in  cui  quest’ultima  abbia  collocato,  presso  il  mercato,  contenitori  per  la  raccolta differenziata di imballaggi, di rifiuti organici  o di altri materiali, è fatto obbligo agli operatori commerciali di servirsi di tali contenitori per il conferimento delle relative categorie di rifiuti. 3.Ciascun  esercente  risponde  personalmente  delle  condizioni  del  posteggio  assegnatogli,  con  specifico  riferimento  allo  stato  d’igiene  del  medesimo.Pertanto  risponderà  di  eventuali  rifiuti  rinvenuti all’atto dei controlli all’interno dell’area, a prescindere della provenienza e tipologia dei medesimi. 4.Gli operatori sono inoltre tenuti a: 
+   • la ricevuta di pagamento della T.O.S.A.P. 2.Ai sensi dell’art. 14 del D.Lgs. 5 febbraio 1997 n.22, gli esercenti devono  mantenere ordinato e pulito il posteggio e gli spazi ad esso adiacenti, provvedendo costantemente alla rimozione di tutti i rifiuti prodotti. A tal fine, e per agevolare il servizio di pulizia dell’area, è fatto obbligo agli  stessi  di  dotarsi  di  idonei  contenitori  per  i  rifiuti  in  tutti  i  casi  nei  quali  non  siano  disponibili,  o  utilizzabili,  materiali  ed  attrezzature  forniti  dall’azienda  preposta  al  servizio  di  pulizia.  Nei  casi  in  cui  quest’ultima  abbia  collocato,  presso  il  mercato,  contenitori  per  la  raccolta differenziata di imballaggi, di rifiuti organici  o di altri materiali, è fatto obbligo agli operatori commerciali di servirsi di tali contenitori per il conferimento delle relative categorie di rifiuti. 3.Ciascun  esercente  risponde  personalmente  delle  condizioni  del  posteggio  assegnatogli,  con  specifico  riferimento  allo  stato  d’igiene  del  medesimo.Pertanto  risponderà  di  eventuali  rifiuti  rinvenuti all’atto dei controlli all’interno dell’area, a prescindere della provenienza e tipologia dei medesimi. 
+   
+4. Gli operatori sono inoltre tenuti a: 
    
    • tenere esposti e ben visibili i prezzi dei prodotti e degli articoli posti in vendita; •tenere ben visibili al pubblico le bilance per la pesatura dei prodotti, nel caso di vendita di prodotti alimentari; 
    
@@ -236,7 +238,9 @@ Art. 31 - vigilanza e controllo
 Art. 32 – sanzioni
 -------------------
 
-1. Si  applica,  in  materia  di  sanzioni  amministrative,  l’art.  20  della  L.R.  18/95,  come  modificato  ed integrato dalla L.R. 2/96. 2.Nei casi di abbandono o deposito incontrollato di rifiuti, si applicano le sanzioni di cui all’art. 50 comma 1 del D.Lgs. 5 febbraio 1997 n. 22. 
+1. Si  applica,  in  materia  di  sanzioni  amministrative,  l’art.  20  della  L.R.  18/95,  come  modificato  ed integrato dalla L.R. 2/96. 
+
+2. Nei casi di abbandono o deposito incontrollato di rifiuti, si applicano le sanzioni di cui all’art. 50 comma 1 del D.Lgs. 5 febbraio 1997 n. 22. 
 
 3. Ove  non  ricorrano  ipotesi  espressamente  previste  dalla  L.R.  18/95  o  da  altre  disposizioni  di  legge  vigenti,  per  le  violazioni  delle  norme  del  presente  regolamento  si  applica,  ai  sensi  dell’art.  7  bis  del  D.Lgs.  267/2000,  la  sanzione  amministrativa  pecuniaria  da  25,00  euro  a  500,00 euro. 4.In caso di recidiva (stessa violazione commessa due volte nell’anno solare), l’ufficio comunale competente   trasmetterà   all’operatore   responsabile   della   violazione   un   provvedimento   di   formale  diffida  e  contestuale  sospensione  dell’autorizzazione  per  un  periodo  non  superiore  a  trenta  giorni.  Detto  provvedimento  sarà  notificato,  ed  eseguito  con  il  ritiro  temporaneo  del  titolo,  dalla  Polizia  Municipale,  che  provvederà  altresì  alla  successiva  restituzione  del  titolo  all’interessato al termine del periodo; in entrambi i casi il Comando di P.M. informerà l’ufficio amministrativo competente. 5.A fronte di ulteriori reiterazioni, l’ufficio comunale competente procederà, ai sensi degli artt. 3 co.2 e 14 co. 3 L.R. 18/95, alla pronuncia di decadenza della concessione del posteggio, e alla conseguente revoca dell’autorizzazione. La Polizia Municipale provvederà al ritiro del titolo, e lo trasmetterà all’ufficio amministrativo competente. 
 
