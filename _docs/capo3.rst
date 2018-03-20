@@ -1,73 +1,10 @@
 ==================================
-Capo 3 - Funzioni del Front-Office
+Capo 3 - Fiere Mercato o Sagre
 ==================================
 
-Art. 7 - Servizio informazioni
--------------------------------
-L’URP svolge la propria attività avvalendosi di un sistema informativo sui servizi, le strutture e il funzionamento dell’amministrazione tale da consentirgli di individuare per ogni servizio le relative informazioni di dettaglio. L’aggiornamento del sistema informativo affidato ai referenti dell’ URP di cui all’art. 7, è di competenza dei singoli uffici, in ragione delle rispettive attività.
+Art. 11 - requisiti e rilascio delle autorizzazioni 1.Le fiere – mercato, o sagre, sono gestite dal Comune, che assicura l’espletamento delle attività di  carattere  istituzionale  ed  eventualmente  l’erogazione  di  servizi  aggiuntivi  -  quali  i  servizi  informazioni, bus navetta, ecc. - salvo che non si proceda, per questi ultimi, all’affidamento a soggetto esterno. 2.La  concessione  dei  posteggi,  nelle  fiere  mercato,  è  valida  solo  per  i  giorni  in  cui  si  svolge  la  manifestazione, ed esclusivamente per le aree in esse individuate come posteggi. 3.Una  parte  dell’area  della  fiera  mercato  -  o,  nel  caso  di  fiere-mercato  specializzate,  anche  l'intera  area  ad  esse  destinata  -  può  essere  utilizzata  per  consentire  l’attività  di    vendita  esclusivamente per determinate specializzazioni merceologiche. 4.L’istanza  di  autorizzazione  per  partecipare  ad  una  fiera  deve  essere  trasmessa  all’Ufficio  competente, a mezzo raccomandata a/r, almeno 60 giorni prima della data di inizio della fiera, ed   entro   i   30   giorni   precedenti   deve   essere   rilasciato   dall’amministrazione   il   titolo   autorizzatorio. 5.Nella  domanda,  redatta  in  carta  legale  e  sottoscritta  ai  sensi  del  D.P.R.  445/2000  (norme  in  materia   di   autocertificazione),   il   richiedente   deve   dichiarare,   allegando   fotocopia   del   documento di riconoscimento: •nome  e  cognome,  luogo  e  data  di  nascita,  residenza,  codice  fiscale  e/o  partita  I.V.A.  ed  eventuale  recapito  telefonico;  ditta  o  ragione  sociale,  sede  legale  e  numero  di  iscrizione  al  registro delle imprese, ove ne sia previsto l’obbligo; •di  svolgere  attività  di  commercio  in  forma  itinerante,  se  ha  già  presentato  la  relativa  comunicazione  di  inizio  attività,  o  di  essere  titolare  di  autorizzazione  all’esercizio  del  commercio su aree pubbliche; •il  possesso  dei  requisiti  morali  previsti  dall’art.  5  commi  2  e  4  del  D.Lgs.  114/98  e  richiamati dall’art. 3 co. 2 della L.R. n. 28/99;  •il  possesso  dei  requisiti  professionali  di  cui  all’art.  3  co.  3  della  L.R.  n.  28/99  (solo  per  il  settore alimentare); •nel  caso  di  somministrazione  di  alimenti  e  bevande,  il  numero  di  iscrizione  al  registro  esercenti  il  commercio,  e  il  possesso  dei  requisiti  igienico  sanitari  previsti  dall’ordinanza  del Ministero della Salute del 22/04/2002; •di commercializzare prodotti non deperibili e non soggetti a trattamenti termici, ove il caso; •la  tipologia  della  struttura  o  delle  strutture  che  si  intendono  utilizzare  per  lo  svolgimento  dell’attività  (automezzo,  chiosco,  altro);  nel  caso  di  utilizzo  di  automezzo,  il  richiedente  deve indicarne la tipologia e la targa. 6.L’assenza  di  uno  qualunque  degli  elementi  sopra  elencati,  ivi  incluse  la  fotocopia  del  documento  di  riconoscimento  e  la  sottoscrizione,  rende  improcedibile  l’istanza,  escludendosi  anche la possibilità di integrazione successiva. 7.Alle fiere possono partecipare commercianti provenienti da tutto il territorio nazionale.
 
-|
+Art. 12 – graduatorie 1.Hanno la precedenza nell’assegnazione dei posteggi gli esercenti commercio di tipologia C e, fra questi, coloro che hanno il più alto numero di presenze nella fiera  mercato di che trattasi. In caso di subingresso, il titolo di precedenza viene trasferito all’esercente subentrato. 2.A parità di condizioni si terrà conto dell’ordine cronologico di presentazione delle domande. In caso  di  disponibilità  residua  di  posteggi  saranno  prese  in  considerazione  anche  le  istanze  pervenute oltre il termine dei 60 giorni antecedenti l’inizio della manifestazione. 3.Qualora il numero delle istanze non fosse sufficiente a coprire tutti i posteggi disponibili nelle fiere-mercato,  gli  stessi  potranno  essere  assegnati  a  qualunque  operatore  che  ne  faccia  richiesta,  munito  di  una  qualsiasi  autorizzazione  o  comunicazione  di  inizio  attività  per  il  commercio, secondo il seguente criterio di priorità:  •più alto numero di presenze nella fiera-mercato considerata;  •commerciante che ha iniziato per primo l’attività comprovata dalla anzianità di iscrizione al registro imprese; •sorteggio. 4.La  graduatoria  per  l’assegnazione  dei  posteggi  di  cui  al  presente  articolo  dovrà  essere  pubblicata   presso   l’Albo   Comunale   e   l’ufficio   competente   almeno   dieci   giorni   prima   dell’inizio della fiera. 5.L’operatore  assegnatario  che  nel  giorno  di  svolgimento  della  fiera  non  sia  presente  nel  posteggio entro un’ora dall’orario prefissato per l’inizio delle vendite, è considerato assente e si procede, scorrendo la graduatoria, all’assegnazione del posteggio ad altro operatore, a partire dal primo di quelli precedentemente esclusi, semprechè presente. 6.Gli  operatori  in  graduatoria  presenti  all’assegnazione  dei  posteggi  che  si  rendono  vacanti  il  giorno  della  manifestazione  sono  comunque  considerati  presenti  ai  fini  del  conteggio  delle  presenze,  a  prescindere  dall’eventualità  che  gli  stessi  rientrino  o  meno  tra  coloro  che  risulteranno assegnatari di posteggio. 
 
-Art. 8 - I referenti dell’U.R.P.
-------------------------------
-I Dirigenti nominano ciascuno un proprio referente deputato a gestire i rapporti con l’URP.
+Art. 13 - funzionamento delle fiere mercato 1.Valgono  per  le  fiere  mercato,  in  quanto  applicabili,  le  norme  generali  di  funzionamento  dei  mercati di cui alla parte II del presente regolamento. 
 
-Qualora richiesto dall’ URP e i Dirigenti nominano i referenti anche nelle unità organizzative.
-
-L’attività dei referenti di cui ai precedenti commi ed in particolare di quelli competenti per gli uffici di sportello è coordinata dai Dirigenti dei Settori.Potranno essere previste riunioni e incontri periodici, tra U.R.P. e referenti, per determinare le strategie di lavoro.
-
-|
-
-Art. 9 - Compiti dei referenti
-----------------------------
-Ai referenti è attribuito in particolare il compito di:
-
-- aggiornare il sistema informativo di cui all’articolo 6;
-
-- segnalare all’ URP tutte le novità inerenti i servizi, i procedimenti amministrativi, la struttura e il suo funzionamento e trasmettere la relativa modulistica;
-
-- contattare il responsabile del procedimento o dell’ufficio competente, tutte le volte che l’URP abbia necessità di acquisire informazioni puntuali su questioni specifiche, nel caso ad esempio di esercizio del diritto di accesso o di gestione e monitoraggio del reclamo;
-
-|
-
-Art. 10 - Rapporti informativi fra Settori dell’Amministrazione
---------------------------------------------------------------
-1.   Tutti gli atti (delibere / determine) devono contenere la seguente dicitura:... *di trasmettere all'URP copia del presente atto, completo di allegati, ai fini della comunicazione esterna*;
-
-2.  Tale  dicitura dovrà essere altresì apposta a tutti gli atti amministrativi  che contengono modifiche delle procedure esistenti o delle modalità di erogazione dei servizi.
-
-|
-
-Art. 11 - Distribuzione della modulistica
----------------------------------------
-1. Tutti i Settori dell’Amministrazione inoltrano all’ U.R.P. la modulistica ad uso degli utenti e dei contribuenti, chiedendo allo stesso di curarne la distribuzione e dando istruzioni circa la loro illustrazione;
-
-2. L’ U.R.P cura la distribuzione della modulistica, messa a disposizione del Comune di Palermo, da parte di altri enti pubblici e da parte dei soggetti che erogano servizi di pubblica utilità sul territorio.
-
-|
-
-Art. 12 - Assistenza alla compilazione
--------------------------------------
-L'assistenza  alla  compilazione  della  modulistica  da  parte  degli  utenti e dei contribuenti comunali è assicurata dai responsabili dei servizi interessati.
-
-|
-
-Art. 13 - Procedura relativa alle segnalazioni e proposte
----------------------------------------------------------
-Tutti gli appartenenti alla comunità cittadina, in modo singolo o associato, hanno diritto di segnalare, con ogni mezzo e modalità a disposizione eventuali disservizi circa i tempi, le procedure e le modalità di erogazione dei servizi dell'Amministrazione. 
-
-L’utenza potrà utilizzare, qualora lo ritenesse opportuno gli appositi moduli prestampati forniti e distribuiti dall’ufficio.
-In ogni caso la segnalazione deve essere compilata in ogni sua parte e, pena l’inammissibilità, non potranno essere accettate istanze se proposte in forma anonima.
-
-L'URP comunica formalmente all'interessato l'inizio della fase istruttoria indicando il responsabile del procedimento al quale eventualmente potrà rivolgersi per avere ulteriori informazioni. 
-
-Per l'espletamento dell'attività istruttoria, l'URP acquisisce tutti gli elementi utili alla formulazione della risposta, richiedendo, formalmente, ai Responsabili di settore o dei servizi interessati tutte le informazioni, relazioni o pareri inerenti all'oggetto della segnalazione. 
-
-I Responsabili di settore o dei servizi sono tenuti a fornire all'URP, per iscritto via fax o e-mail, entro 15 giorni dalla richiesta, i pareri o le relazioni e tutte le informazioni necessarie, indicando i motivi del disservizio verificatosi e, ove possibile, le concrete soluzioni e i tempi necessari per rimuoverlo. 
-
-Ricevuta l'informativa richiesta il responsabile del procedimento conclude l'istruttoria entro i successivi 15 giorni e trasmette
-gli atti al Responsabile dell’URP.
-
-Qualora le segnalazioni degli utenti non abbiano avuto risposta nei tempi stabiliti, il Responsabile dell’URP sollecita il Responsabile dell’ufficio interessato.
-
-Presso gli URP, i cittadini e le associazioni possono, altresì, avanzare proposte e suggerimenti per quanto concerne il miglioramento delle modalità di accesso ed erogazione dei servizi. Tali proposte sono inoltrate agli Uffici competenti che provvedono a dare una risposta entro 30 giorni, trasmettendola per conoscenza all'URP. 
