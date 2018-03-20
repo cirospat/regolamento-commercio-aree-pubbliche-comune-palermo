@@ -56,5 +56,5 @@ Art. 16 - rilascio dell’autorizzazione
    
    • nel  caso  di  somministrazione  di  alimenti  e  bevande,  al  numero  di  iscrizione  al  registro  esercenti il commercio e al possesso dei requisiti igienico sanitari previsti dall’ordinanza del Ministero della Salute del 22/04/2002; •all’eventuale  commercializzazione  di  prodotti  alimentari  non  deperibili  e  non  soggetti  a  trattamenti termici, ove il caso. 
 
-3.Non   saranno   ammessi   gli   operatori   dei   quali   pervenga   documentazione   incompleta.
+3. Non   saranno   ammessi   gli   operatori   dei   quali   pervenga   documentazione   incompleta.
 
