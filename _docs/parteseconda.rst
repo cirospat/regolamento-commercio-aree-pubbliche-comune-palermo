@@ -92,7 +92,12 @@ Art. 22 - requisiti igienico sanitari
 
 7. Il commercio su aree pubbliche di animali vivi non può essere esercitato nello stesso posteggio in cui vengono posti in vendita o somministrati prodotti alimentari o in aree ad esso contigue. Esso  deve  essere  esercitato  nel  rispetto  delle  norme  di  polizia  veterinaria  e  di  tutela  del  benessere degli animali.  
 
-Art. 23 - durata della concessione del posteggio 1.La durata della concessione del posteggio è fissata in anni 10 (dieci) a decorrere dalla data di rilascio ed è valida soltanto per le ore ed i giorni  di  svolgimento  del  mercato, salvo diversa e specifica convenzione. La concessione può essere rinnovata.  
+|
+
+Art. 23 - durata della concessione del posteggio
+-------------------------------------------------
+
+1. La durata della concessione del posteggio è fissata in anni 10 (dieci) a decorrere dalla data di rilascio ed è valida soltanto per le ore ed i giorni  di  svolgimento  del  mercato, salvo diversa e specifica convenzione. La concessione può essere rinnovata.  
 
 |
 
